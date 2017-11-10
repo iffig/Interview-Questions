@@ -1,3 +1,16 @@
+/*
+  In this problem, you must take an integer reverse its order
+  - Assume no leading zeroes.
+  - Negatives should stay in leading position.
+  - If integer is reversed and has a leading zero, it should be dropped.
+
+  Examples:
+      reverse(12345) --> return 54321
+      reverse(-5643) --> return -3465
+      reverse(1230) --> return 321
+*/
+
+
 #include <iostream>
 using namespace std;
 
